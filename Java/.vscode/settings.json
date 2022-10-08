@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "Patterns",
+        "Basic_Program_IN_Java",
+        "BitManupaltion",
+        "Recusion"
+    ],
+    "C_Cpp.errorSquiggles": "Disabled"
+}
